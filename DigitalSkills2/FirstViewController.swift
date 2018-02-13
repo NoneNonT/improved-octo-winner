@@ -3,7 +3,7 @@
 //  DigitalSkills2
 //
 //  Created by Gerald Koocher on 13.02.2018.
-//  Copyright © 2018 Gerald Koocher. 
+//  Copyright    привет мир © 2018 Gerald Koocher. 
 //
 
 import UIKit
